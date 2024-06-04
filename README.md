@@ -17,8 +17,6 @@
 
 - 💬 Ask me about **Tech or Cricket**
 
-    <img align="right" alt = "coding" width="400" src="https://dribbble.com/shots/3223431-Code-animation/attachments/9712592?mode=media"/>
-
 - ⚡ Fun fact **Wi-Fi: No Meaning**
 
 - 📫 How to reach me 
