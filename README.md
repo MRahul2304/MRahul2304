@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **AI Enthusiast**
 
-- 🤝 I’m looking for help with **Product Based Company**
+- 🤝 I’m looking for help with **optimizing code.**
 
 - 📝 I regularly write articles on 
 
