@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">A Passionate Backend Developer From India</h3>
+<h3 align="center">A Passionate Software Developer From India</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src=" " alt="" /></a> </p>
 
