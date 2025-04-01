@@ -1,5 +1,3 @@
-GitHub Readme
-
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A Passionate Backend Developer From India</h3>
 
@@ -43,5 +41,3 @@ GitHub Readme
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrahul2304&show_icons=true&locale=en&layout=compact" alt="mrahul2304" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrahul2304&show_icons=true&locale=en" alt="mrahul2304" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrahul2304&" alt="mrahul2304" /></p>
